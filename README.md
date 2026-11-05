@@ -1,7 +1,5 @@
 # Andrey Popovich
 
-I build open-source desktop applications for Linux.
-
 ## Projects
 
 ### [Blind Pew](https://github.com/gagafes/blind-pew)
